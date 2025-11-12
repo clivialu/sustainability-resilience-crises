@@ -5,7 +5,7 @@ This repository contains and materials related to the paper that investigates wh
 ## Paper
 
 - **Title:** Are firms with better sustainability performance more resilient during crises  
-- **Authors:** Jessie Lu, K. Rodenburg, L. Foti, & A. Pegoraro  
+- **Authors:** J. Lu, K. Rodenburg, L. Foti, & A. Pegoraro  
 - **Journal:** Business Strategy and the Environment, 31(7) (2022)  
 - **Link:** [https://doi.org/10.1002/bse.3088](https://doi.org/10.1002/bse.3088)  
 - **Ranking / Impact:** ABDC A; Impact factor 13.3
