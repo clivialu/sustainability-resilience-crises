@@ -26,7 +26,7 @@ Our findings suggest that companies with stronger sustainability performance ten
 | **4** | **Truly global evidence.** ESG debates can be US‑centric. | Analyzes **2,885 firms across all G7 economies (2004‑2020)**, underscoring worldwide relevance. |
 | **5** | **Rigorous, policy‑ready methodology.** Decision‑makers look for robustness. | Employs simultaneous‑equation 3SLS and Heckman selection tests to control endogeneity and disclosure bias, strengthening causal claims. |
 
-## Managerial takeaways
+## Managerial Takeaways
 - **Commit for the long haul—mature sustainability programs pay off.** Early-stage or PR-driven initiatives yield limited cushioning, whereas seasoned programs deliver “insurance-like” protection when shocks hit. 
 - **Think years, not quarters.** Benefits accrue slowly; managers who persevere through crisis noise ultimately see risk reduction and stronger ROI. 
 - **Avoid greenwashing.** Superficial campaigns risk reputational blow-back from increasingly savvy stakeholders and squander long-term gains. 
