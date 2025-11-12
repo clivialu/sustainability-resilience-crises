@@ -9,6 +9,7 @@ This repository contains and materials related to the paper that investigates wh
 - **Journal:** Business Strategy and the Environment, 31(7) (2022)  
 - **Link:** [https://doi.org/10.1002/bse.3088](https://doi.org/10.1002/bse.3088)  
 - **Ranking / Impact:** ABDC A; Impact factor 13.3
+- **Achknowledgement:** SSHRC Insight Development Grant
 
 ## In Plain Language
 
@@ -24,3 +25,11 @@ Our findings suggest that companies with stronger sustainability performance ten
 | **3** | **New contingency insight: _mature_ sustainability is the real shield.** Firms often wonder whether early ESG efforts are enough. | Shows that only **mature** adopters enjoy “insurance‑like” protection; early‑stage programs do not. Also confirms a **bidirectional** link—sustainability both drives and is driven by profits. |
 | **4** | **Truly global evidence.** ESG debates can be US‑centric. | Analyzes **2,885 firms across all G7 economies (2004‑2020)**, underscoring worldwide relevance. |
 | **5** | **Rigorous, policy‑ready methodology.** Decision‑makers look for robustness. | Employs simultaneous‑equation 3SLS and Heckman selection tests to control endogeneity and disclosure bias, strengthening causal claims. |
+
+## Managerial takeaways
+- **Commit for the long haul—mature sustainability programs pay off.** Early-stage or PR-driven initiatives yield limited cushioning, whereas seasoned programs deliver “insurance-like” protection when shocks hit. 
+- **Think years, not quarters.** Benefits accrue slowly; managers who persevere through crisis noise ultimately see risk reduction and stronger ROI. 
+- **Avoid greenwashing.** Superficial campaigns risk reputational blow-back from increasingly savvy stakeholders and squander long-term gains. 
+- **Treat sustainability as strategic insurance.** During supply-side shutdowns such as COVID-19, high-scoring firms preserved revenue while laggards were forced to close or lost customers. 
+- **Crisis type matters.** Demand-led shocks (2007-08) can temporarily penalize high-cost, sustainability-focused firms, yet the same firms rebound faster post-crisis; supply-led shocks (COVID-19) reward them immediately. 
+- **Embed sustainability in core operations and stakeholder dialogue.** Firms that integrate ESG into core opertions are better positioned to meet shifting societal norms and regulatory scrutiny. 
