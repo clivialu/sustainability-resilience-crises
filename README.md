@@ -1,4 +1,4 @@
-# Sustainability Performance and Firm Resilience During Crises
+# Are firms with better sustainability performance more resilient during crises
 
 This repository contains and materials related to the paper that investigates whether firms with better sustainability performance are more resilient during crises.
 
@@ -17,7 +17,7 @@ In this project, we ask whether companies that perform better on sustainability 
 We look at firms’ sustainability performance before crises and compare how they fare during disruptive periods, focusing on indicators of financial resilience.  
 Our findings suggest that companies with stronger sustainability performance tend to be more resilient when facing crises, supporting the idea that sustainability can contribute to long-term stability and risk management.
 
-## Paper Highlights
+## Paper Highlight
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
 | **1** | **Direct accounting‑based proof that “sustainability pays” in a pandemic.** Prior COVID‑19 studies stopped at the stock‑market level; investors care about fundamentals. | Links higher sustainability scores to stronger **ROA** and **ROE** during 2020, showing real balance‑sheet resilience rather than short‑term market noise. |
